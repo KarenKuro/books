@@ -12,7 +12,7 @@ This is a NestJS project that includes three modules: Users, Authors, and Books.
 1. Clone the repository
 
    ```bash
-   git clone <https://github.com/KarenKuro/NestBooksCatalog>
+   git clone https://github.com/KarenKuro/books.git
    ```
 
 2. Install dependencies
