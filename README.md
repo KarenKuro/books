@@ -58,4 +58,4 @@ $ npm run test
 $ npm run test:e2e
 ```
 
-GitHub repository: https://github.com/KarenKuro/NestBooksCatalog
+GitHub repository: https://github.com/KarenKuro/books
